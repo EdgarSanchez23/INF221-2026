@@ -1,0 +1,16 @@
+{
+    "auto1": {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "velocidad": 20,
+        "gasolina": 100,
+        "estado": "Apagado"
+    },
+    "auto2": {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "velocidad": 20,
+        "gasolina": 100,
+        "estado": "Apagado"
+    }
+}
